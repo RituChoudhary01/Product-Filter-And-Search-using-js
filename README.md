@@ -13,4 +13,4 @@ A simple web project that allows users to filter and search products dynamically
 - JavaScript
 
 ## Live Demo  
-[Click here to see live](https://brilliant-dodol-21f627.netlify.app/)  
+[Click here to see live]()  
